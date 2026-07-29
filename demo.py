@@ -1,4 +1,4 @@
-def sub(a,b):
+def subtraction(a,b):
     return a - b
 
-sub(5,3)
+print(subtraction(5,3))
